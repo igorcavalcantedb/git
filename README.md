@@ -1,31 +1,31 @@
-# Git Básico
+# Basic Git
 
-Segundo a Wikipédia, Git é: 
+According to Wikipedia, Git is:
 
-> [...] é um sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software, mas pode ser usado para registrar o histórico de edições de qualquer tipo de arquivo. O Git foi inicialmente projetado e desenvolvido por Linus Torvalds para o desenvolvimento do kernel Linux, mas foi adotado por muitos outros projetos.
+> [...] is a distributed version control system primarily used in software development but can be used to record the edit history of any file type. Git was initially designed and developed by Linus Torvalds for Linux kernel development, but has been adopted by many other projects.
 
-## Tópicos
+## Topics
 
-Neste desafio você aprenderá:
+In this challenge you will learn:
 
-- Criar um repositório local
-- Criar um repositório remoto
-- Criar ```branches``` 
-- Sincronizar ```branches``` locais com um repositório remoto
+- Create a local repository
+- Create a remote repository
+- Create `` `branches```
+- Sync local `` `branches``` to a remote repository
 
-## Passos
+## Steps
 
-Para que este desafio seja cumprido com sucesso você deve: 
+For this challenge to be successfully met you must:
 
-- Criar um repositório local no diretório do desafio (por exemplo: em ```/home/seu_usuario/codenation/git-1``` ou ```c:\users\seu_usuario\codenation\git-1```)
-- Criar um repositório público em algum serviço como [Github](https://github.com), [Gitlab](https://gitlab.com), [Bitbucket](https://bitbucket.org)
-- Criar uma branch local com o nome ```desafio-codenation``` e fazer o commit de alguma alteração, em qualquer arquivo.
-- Fazer push da nova branch para o repositório remoto
+- Create a local repository in the challenge directory (for example: in `` `/ home / your_user / codenation / git-1``` or` `` c: \ users \ your_user \ codenation \ git-1```)
+- Create a public repository on some service like [Github](https://github.com), [Gitlab](https://gitlab.com), [Bitbucket](https://bitbucket.org)
+- Create a local branch named `` `challenge-codenation``` and commit any changes to any file.
+- Push new branch to remote repository
 
-Ao executar o comando ```codenation submit -c git-1``` os passos acima serão validados e sua nota será computada.
+When executing the command `` `codenation submit -c git-1``` the above steps will be validated and your grade will be computed.
 
-## Requisitos
-​
-Para este desafio você precisará de:
+## Requirements
+
+For this challenge you will need:
 
 - Git
